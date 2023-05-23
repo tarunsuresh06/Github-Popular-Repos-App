@@ -1,0 +1,18 @@
+.language-filter-item {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.language-btn {
+  background-color: #ffffff;
+  border: 2px solid #0f172a;
+  border-radius: 20px;
+  font-size: 18px;
+  padding: 5px 10px;
+  color: #0f172a;
+}
+
+.active {
+  border-color: #0284c7;
+  color: #0284c7;
+}
